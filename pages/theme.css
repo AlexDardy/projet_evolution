@@ -1,0 +1,35 @@
+body {
+    background-color: #D8D9D0 !important;
+}
+
+.navbar {
+    background-color: #3B4D50 !important;
+}
+
+.nav-item {
+    margin: auto !important;
+}
+
+.nav-link {
+    color: #D8D9D0 !important;
+}
+
+.menu-link {
+    color: #6B4235 !important;
+}
+
+.menu-item {
+    background-color: unset;
+    border: unset;
+}
+
+.blue-button {
+    color: white;
+    background-color: #2897B0 !important;
+    border-color: #2897B0 !important;
+}
+.blue-button:hover {
+    color: white;
+    background-color: #6B4235 !important;
+    border-color: #6B4235 !important;
+}
